@@ -15,7 +15,6 @@ font-family: 'Montserrat', sans-serif;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 62px;
 }
 
 .card {
@@ -26,6 +25,7 @@ font-family: 'Montserrat', sans-serif;
     width: 290px;
     height: 416px;
 
+    margin: 31px;
     padding: 27px;
 
     background-color: #fff;
